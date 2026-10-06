@@ -1,0 +1,6 @@
+{
+  "name": "FLOODTRACE AI",
+  "description": "Geospatial emergency intelligence platform mapping flood damage, compromised infrastructure, and cut-off Himalayan settlements from space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
